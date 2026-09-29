@@ -1,15 +1,118 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=RENZO%20LUQUE&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20AI%20DEVELOPER&descAlignY=58&descSize=18&color=0:020617,45:0f172a,75:1d4ed8,100:06b6d4" width="100%"/>
+<!-- HEADER ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D0221,25:240046,50:5A189A,75:9D4EDD,100:C77DFF&text=RENZO%20LUQUE&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20DEVELOPER&descSize=18&descAlignY=58&descColor=E0AAFF"/>
 
+<!-- TEXTO ANIMADO -->
 <a href="https://github.com/KYKELUKE">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Renzo+%F0%9F%91%8B;Ingeniero+de+Software+con+IA+%F0%9F%A4%96;Construyo+software+%7C+IA+%7C+Web+%7C+Mobile;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Texto animado"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=700&color=C77DFF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=Hola%2C+soy+Renzo+Luque+%F0%9F%91%8B;Ingeniero+de+Software+con+IA+%F0%9F%A4%96;Desarrollador+Full+Stack+%F0%9F%92%BB;Transformando+ideas+en+soluciones+%E2%9C%A8;Code.+Create.+Innovate.+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/GitHub-KYKELUKE-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=KYKELUKE&style=for-the-badge&color=0f172a&label=VISITAS"/>
+<!-- BADGES -->
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%26%20AI-C77DFF?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=KYKELUKE&style=for-the-badge&color=7B2CBF&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<!-- SEPARADOR -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=9D4EDD&height=2&section=header&width=100%"/>
+
+</div>
+
+<!-- SOBRE MI -->
+<h2 align="center">🪐 Sobre mí</h2>
+
+<div align="center">
+
+```javascript
+const renzo = {
+    nombre: "Renzo Luque",
+    profesion: "Ingeniero de Software con IA",
+    ubicacion: "Perú 🇵🇪",
+    especialidad: ["Desarrollo Web", "Inteligencia Artificial", "Desarrollo Mobile"],
+    lenguajes: ["JavaScript", "Python", "Java"],
+    enfoque: "Crear soluciones tecnológicas innovadoras",
+    filosofia: "El código convierte ideas en realidad."
+};
+```
+
+</div>
+
+<br/>
+
+<!-- TECNOLOGIAS -->
+<h2 align="center">⚡ Tech Stack</h2>
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark&perline=8"/>
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php,laravel,postgres,supabase,mysql&theme=dark&perline=9"/>
+
+### Mobile, AI & Tools
+<img src="https://skillicons.dev/icons?i=react,flutter,java,cs,unity,git,github,vscode,figma,docker&theme=dark&perline=10"/>
+
+</div>
+
+<br/>
+
+<!-- ESTADISTICAS -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KYKELUKE&show_icons=true&count_private=true&hide_border=true&bg_color=0D0221&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF&ring_color=C77DFF&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KYKELUKE&layout=compact&hide_border=true&bg_color=0D0221&title_color=C77DFF&text_color=E0AAFF&langs_count=8"/>
+
+<br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=KYKELUKE&hide_border=true&background=0D0221&stroke=5A189A&ring=C77DFF&fire=E0AAFF&currStreakLabel=C77DFF&sideLabels=E0AAFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9D4EDD"/>
+
+</div>
+
+<br/>
+
+<!-- GRAFICO DE ACTIVIDAD -->
+<h2 align="center">🌌 Contribution Graph</h2>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KYKELUKE&bg_color=0D0221&color=C77DFF&line=9D4EDD&point=E0AAFF&area=true&hide_border=true&custom_title=My%20Coding%20Journey"/>
+
+</div>
+
+<br/>
+
+<!-- TROFEOS -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=KYKELUKE&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
+
+<br/>
+
+<!-- FRASE -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:240046,50:7B2CBF,100:C77DFF&height=120&section=footer&text=Building%20the%20future%20one%20line%20at%20a%20time&fontSize=20&fontColor=FFFFFF&animation=fadeIn"/>
+
+<br/>
+
+**💜 Code. Create. Innovate. Repeat.**
+
+<a href="https://github.com/KYKELUKE">
+<img src="https://img.shields.io/badge/Explore%20my%20repositories-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
