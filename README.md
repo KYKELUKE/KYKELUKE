@@ -1,188 +1,170 @@
 
+<!-- ====================================================== -->
+<!--                 RENZO LUQUE | GITHUB                   -->
+<!-- ====================================================== -->
+
 <div align="center">
 
-<!-- HEADER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D0221,25:240046,50:5A189A,75:9D4EDD,100:C77DFF&text=RENZO%20LUQUE&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20DEVELOPER&descSize=18&descAlignY=58&descColor=E0AAFF"/>
+<!-- HEADER FUTURISTA -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D0221,20:240046,45:5A189A,70:7B2CBF,100:C77DFF&text=RENZO%20LUQUE&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20DEVELOPER&descSize=19&descAlignY=58&descColor=E0AAFF"/>
 
 <!-- TEXTO ANIMADO -->
 <a href="https://github.com/KYKELUKE">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=700&color=C77DFF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=Hola%2C+soy+Renzo+Luque+%F0%9F%91%8B;Ingeniero+de+Software+con+IA+%F0%9F%A4%96;Desarrollador+Full+Stack+%F0%9F%92%BB;Transformando+ideas+en+soluciones+%E2%9C%A8;Code.+Create.+Innovate.+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=800&color=C77DFF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=Hola%2C+soy+Renzo+Luque+%F0%9F%91%8B;Ingeniero+de+Software+con+IA+%F0%9F%A4%96;Desarrollador+Full+Stack+%F0%9F%92%BB;Construyendo+soluciones+con+tecnolog%C3%ADa+%E2%9C%A8;Code.+Create.+Innovate.+%F0%9F%9A%80" alt="Texto animado"/>
 </a>
 
 <br/>
 
 <!-- BADGES -->
-<img src="https://img.shields.io/badge/STATUS-AVAILABLE-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%26%20AI-C77DFF?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=KYKELUKE&style=for-the-badge&color=7B2CBF&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%26%20AI-7B2CBF?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
+<img src="https://img.shields.io/badge/BASED%20IN-PERU-C77DFF?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=KYKELUKE&style=for-the-badge&color=5A189A&label=VISITAS"/>
 
 <br/><br/>
 
-<!-- SEPARADOR -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=9D4EDD&height=2&section=header&width=100%"/>
 
 </div>
 
-<!-- SOBRE MI -->
+<!-- ====================================================== -->
+<!--                       SOBRE MI                         -->
+<!-- ====================================================== -->
+
 <h2 align="center">🪐 Sobre mí</h2>
 
 <div align="center">
 
-```javascript
-const renzo = {
-    nombre: "Renzo Luque",
-    profesion: "Ingeniero de Software con IA",
-    ubicacion: "Perú 🇵🇪",
-    especialidad: ["Desarrollo Web", "Inteligencia Artificial", "Desarrollo Mobile"],
-    lenguajes: ["JavaScript", "Python", "Java"],
-    enfoque: "Crear soluciones tecnológicas innovadoras",
-    filosofia: "El código convierte ideas en realidad."
-};
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Desarrollador+de+software+%F0%9F%92%BB;Explorando+el+universo+de+la+IA+%F0%9F%A4%96;Transformando+ideas+en+soluciones+%E2%9C%A8" alt="Presentación animada"/>
 
 </div>
 
-<br/>
+<table align="center" border="0">
+<tr>
+<td width="55%" valign="middle">
 
-<!-- TECNOLOGIAS -->
+### 👨‍💻 ¿Quién soy?
+
+Soy **Renzo Luque**, Ingeniero de Software con Inteligencia Artificial, de Perú 🇵🇪.
+
+Me apasiona desarrollar soluciones tecnológicas que combinen programación, innovación e inteligencia artificial.
+
+Disfruto construir aplicaciones web, móviles y sistemas que resuelvan problemas reales, explorando constantemente nuevas herramientas y tecnologías.
+
+</td>
+<td width="45%" valign="middle" align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs&theme=dark&perline=3"/>
+
+<br/><br/>
+
+**Code is my canvas.**
+
+*La tecnología es el medio; la innovación, el objetivo.*
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ROLE-Software%20Engineer-5A189A?style=flat-square"/>
+<img src="https://img.shields.io/badge/INTEREST-Artificial%20Intelligence-7B2CBF?style=flat-square"/>
+<img src="https://img.shields.io/badge/MINDSET-Continuous%20Learning-C77DFF?style=flat-square"/>
+
+</div>
+
+---
+
+<!-- ====================================================== -->
+<!--                     TECH STACK                         -->
+<!-- ====================================================== -->
+
 <h2 align="center">⚡ Tech Stack</h2>
 
-<div align="center">
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark&perline=8"/>
-
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php,laravel,postgres,supabase,mysql&theme=dark&perline=9"/>
-
-### Mobile, AI & Tools
-<img src="https://skillicons.dev/icons?i=react,flutter,java,cs,unity,git,github,vscode,figma,docker&theme=dark&perline=10"/>
-
-</div>
-
-<br/>
-
-<!-- ESTADISTICAS -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<p align="center">
+  Tecnologías y herramientas que utilizo para convertir ideas en productos digitales.
+</p>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KYKELUKE&show_icons=true&count_private=true&hide_border=true&bg_color=0D0221&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF&ring_color=C77DFF&include_all_commits=true"/>
+### 🌐 Frontend Development
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KYKELUKE&layout=compact&hide_border=true&bg_color=0D0221&title_color=C77DFF&text_color=E0AAFF&langs_count=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark&perline=8"/>
 
-<br/>
+### ⚙️ Backend Development
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=KYKELUKE&hide_border=true&background=0D0221&stroke=5A189A&ring=C77DFF&fire=E0AAFF&currStreakLabel=C77DFF&sideLabels=E0AAFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9D4EDD"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php,laravel&theme=dark&perline=6"/>
 
-</div>
+### 🤖 Artificial Intelligence
 
-<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-C77DFF?style=for-the-badge"/>
 
-<!-- GRAFICO DE ACTIVIDAD -->
-<h2 align="center">🌌 Contribution Graph</h2>
+### 📱 Mobile Development
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=react,expo,flutter,java,cs&theme=dark&perline=5"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KYKELUKE&bg_color=0D0221&color=C77DFF&line=9D4EDD&point=E0AAFF&area=true&hide_border=true&custom_title=My%20Coding%20Journey"/>
+### 🗄️ Databases
 
-</div>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,sqlite&theme=dark&perline=4"/>
 
-<br/>
+### 🛠️ Tools & Platforms
 
-<!-- TROFEOS -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=KYKELUKE&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
-<br/>
-
-<!-- FRASE -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:240046,50:7B2CBF,100:C77DFF&height=120&section=footer&text=Building%20the%20future%20one%20line%20at%20a%20time&fontSize=20&fontColor=FFFFFF&animation=fadeIn"/>
-
-<br/>
-
-**💜 Code. Create. Innovate. Repeat.**
-
-<a href="https://github.com/KYKELUKE">
-<img src="https://img.shields.io/badge/Explore%20my%20repositories-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,unity,visualstudio&theme=dark&perline=7"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 `> whoami`
+<!-- ====================================================== -->
+<!--                  PROYECTOS DESTACADOS                  -->
+<!-- ====================================================== -->
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  👋 Hola, soy Renzo Luque                                    │
-│                                                              │
-│  💻 Ingeniero de Software con Inteligencia Artificial        │
-│  🇵🇪 Perú                                                     │
-│  🧠 Software + Inteligencia Artificial                        │
-│  🚀 Construyendo proyectos y aprendiendo constantemente       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<h2 align="center">🚀 Proyectos destacados</h2>
 
-Me gusta convertir ideas en **soluciones de software funcionales**, explorando desarrollo web, aplicaciones móviles, backend e inteligencia artificial.
+<p align="center">
+  Algunos de los proyectos que representan mi experiencia e intereses tecnológicos.
+</p>
 
----
-
-# ⚡ `> stack --actual`
-
-<div align="center">
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind" />
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php" />
-
-### 🤖 Inteligencia Artificial
-
-`LangChain` · `RAG` · `FAISS` · `Gemini` · `Ollama`
-
-### 📱 Mobile · 🗄️ Datos · 🛠️ Herramientas
-
-<img src="https://skillicons.dev/icons?i=react,expo,postgres,supabase,mysql,git,github,vscode,figma,docker,unity" />
-
-</div>
-
----
-
-# 🚀 Proyectos destacados
-
-<table>
+<table align="center" border="0">
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 🤖 VIVNA
 
-**Asistente basado en IA + RAG**
+<img src="https://img.shields.io/badge/AI-RAG-7B2CBF?style=flat-square"/>
 
-Sistema conversacional que utiliza recuperación de información para trabajar con contenido documental.
+</div>
+
+**Asistente inteligente de nutrición**
+
+Chatbot basado en recuperación aumentada de información (RAG), diseñado para consultar documentos y generar respuestas utilizando modelos de inteligencia artificial.
+
+**Tecnologías:**
 
 `Python` `LangChain` `FAISS` `Gemini` `Streamlit`
 
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 📊 SISDE
+
+<img src="https://img.shields.io/badge/DESKTOP-.NET-9D4EDD?style=flat-square"/>
+
+</div>
 
 **Sistema de Autoevaluación de Desempeño**
 
-Aplicación de escritorio para registrar y generar información de procesos de autoevaluación.
+Aplicación de escritorio para registrar evaluaciones, completar formularios y generar informes en PDF mediante una interfaz intuitiva.
+
+**Tecnologías:**
 
 `C#` `.NET` `Windows Forms` `QuestPDF`
 
@@ -192,22 +174,38 @@ Aplicación de escritorio para registrar y generar información de procesos de a
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 💊 Ekuifarm
 
-**Sistema para farmacia**
+<img src="https://img.shields.io/badge/MANAGEMENT-SYSTEM-7B2CBF?style=flat-square"/>
 
-Sistema con módulos para clientes, proveedores, productos, ventas y facturación.
+</div>
+
+**Sistema de gestión para farmacia**
+
+Plataforma que integra módulos de clientes, proveedores, empleados, productos, ventas, facturación y reportes.
+
+**Tecnologías:**
 
 `PHP` `JavaScript` `SQL Server`
 
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 🏨 EasyHotel
+
+<img src="https://img.shields.io/badge/WEB-PLATFORM-9D4EDD?style=flat-square"/>
+
+</div>
 
 **Directorio digital de alojamientos**
 
-Proyecto orientado a facilitar la consulta de establecimientos de alojamiento en Perú.
+Proyecto web orientado a facilitar la búsqueda y consulta de establecimientos de alojamiento en Perú, con un directorio de más de 1500 establecimientos.
+
+**Tecnologías:**
 
 `HTML` `CSS` `JavaScript` `APIs`
 
@@ -215,131 +213,166 @@ Proyecto orientado a facilitar la consulta de establecimientos de alojamiento en
 </tr>
 </table>
 
----
+<div align="center">
 
-# 🧠 `> habilidades`
+<a href="https://github.com/KYKELUKE?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORAR%20TODOS%20MIS%20PROYECTOS-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-```text
-01  🌐 Desarrollo Web
-    ├── React / Next.js
-    └── JavaScript / TypeScript
-
-02  ⚙️ Backend
-    ├── Python / FastAPI
-    ├── Node.js / Express
-    └── PHP
-
-03  🤖 Inteligencia Artificial
-    ├── RAG
-    ├── LangChain
-    ├── Vector Search
-    └── APIs de IA
-
-04  📱 Aplicaciones
-    ├── React Native / Expo
-    └── C# / .NET
-```
+</div>
 
 ---
 
-# 📈 GitHub en movimiento
+<!-- ====================================================== -->
+<!--                    GITHUB ANALYTICS                    -->
+<!-- ====================================================== -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  Mi actividad, estadísticas y evolución como desarrollador.
+</p>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KYKELUKE&show_icons=true&theme=tokyonight&hide_border=true&locale=es&rank_icon=github" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KYKELUKE&layout=compact&theme=tokyonight&hide_border=true&locale=es" width="38%"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KYKELUKE&show_icons=true&hide_border=true&bg_color=0D0221&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF&ring_color=C77DFF&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KYKELUKE&layout=compact&hide_border=true&bg_color=0D0221&title_color=C77DFF&text_color=E0AAFF&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=KYKELUKE&theme=tokyonight&hide_border=true&locale=es" width="65%"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=KYKELUKE&theme=midnight-purple&hide_border=true&background=0D0221&stroke=5A189A&ring=C77DFF&fire=E0AAFF&currStreakLabel=C77DFF&sideLabels=E0AAFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9D4EDD"/>
 
 </div>
 
 ---
 
-# 🐍 Mis contribuciones
+<!-- ====================================================== -->
+<!--                  CONTRIBUTION GRAPH                    -->
+<!-- ====================================================== -->
+
+<h2 align="center">🌌 Coding Activity</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%" alt="Contribuciones de GitHub"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KYKELUKE&bg_color=0D0221&color=C77DFF&line=9D4EDD&point=E0AAFF&area=true&hide_border=true&custom_title=My%20Coding%20Journey"/>
 
 </div>
 
 ---
 
-# 🔥 Actualmente
+<!-- ====================================================== -->
+<!--                    CONTRIBUTIONS                      -->
+<!-- ====================================================== -->
+
+<h2 align="center">🐍 Mis contribuciones</h2>
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  🤖 Inteligencia Artificial                          │
-│  🌐 Desarrollo Web                                   │
-│  📱 Aplicaciones móviles                             │
-│  ⚙️ APIs y Backend                                   │
-│  🗄️ Bases de datos                                   │
-│  🚀 Nuevos proyectos                                 │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="95%" alt="Animación de contribuciones de GitHub"/>
 
 </div>
 
 ---
 
-# 🎯 Ruta de desarrollo
+<!-- ====================================================== -->
+<!--                     TROFEOS                            -->
+<!-- ====================================================== -->
 
-```text
-       💡 IDEA
-          │
-          ▼
-   🧩 PLANIFICACIÓN
-          │
-          ▼
-    💻 DESARROLLO
-          │
-          ▼
-      🧪 PRUEBAS
-          │
-          ▼
-   🚀 IMPLEMENTACIÓN
-          │
-          ▼
-     🔧 MEJORAS
-          │
-          └──────────► 🔁
-```
-
----
-
-# 📚 `> learning`
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
 
-`🤖 IA aplicada`　 `🧠 RAG`　 `⚛️ React`　 `▲ Next.js`
-
-`🐍 Python`　 `⚡ FastAPI`　 `📱 React Native`　 `☁️ Cloud`
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=KYKELUKE&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
 ---
 
-# 🌎 Idiomas
+<!-- ====================================================== -->
+<!--                  SKILLS & LEARNING                     -->
+<!-- ====================================================== -->
 
-| Idioma | Nivel |
-|---|---|
-| 🇵🇪 Español | Nativo |
-| 🇺🇸 Inglés | Intermedio / B2 |
+<h2 align="center">🧠 Habilidades y aprendizaje</h2>
+
+<table align="center" border="0">
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Desarrollo Web
+
+- Interfaces modernas y responsivas.
+- Desarrollo con React y Next.js.
+- Integración de APIs.
+- Aplicaciones frontend.
+
+### ⚙️ Backend
+
+- Desarrollo de servicios REST.
+- Python, FastAPI y Node.js.
+- Gestión de bases de datos.
+- Arquitectura de aplicaciones.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Inteligencia Artificial
+
+- Sistemas RAG.
+- Integración de modelos de lenguaje.
+- Recuperación de información.
+- Automatización inteligente.
+
+### 📱 Desarrollo de aplicaciones
+
+- Aplicaciones móviles con Expo.
+- Aplicaciones de escritorio con .NET.
+- Generación de documentos PDF.
+- Diseño de interfaces intuitivas.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=650&lines=Always+learning+%F0%9F%93%9A;Always+building+%F0%9F%9A%80;Always+improving+%E2%9C%A8" alt="Aprendizaje continuo"/>
+
+</div>
 
 ---
 
-# 📫 Conectemos
+<!-- ====================================================== -->
+<!--                      IDIOMAS                           -->
+<!-- ====================================================== -->
+
+<h2 align="center">🌎 Idiomas</h2>
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/Español-Nativo-7B2CBF?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Inglés-B2%20%7C%20Intermedio-C77DFF?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+
+</div>
+
+---
+
+<!-- ====================================================== -->
+<!--                       CONTACTO                         -->
+<!-- ====================================================== -->
+
+<h2 align="center">📫 Conectemos</h2>
+
+<div align="center">
+
+¿Tienes una idea, un proyecto o simplemente quieres hablar de tecnología?
+
+¡Conectemos!
+
+<br/><br/>
 
 <a href="https://github.com/KYKELUKE">
-<img src="https://img.shields.io/badge/GitHub-KYKELUKE-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-KYKELUKE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:renzo.luque.pari@gmail.com">
@@ -348,9 +381,11 @@ Proyecto orientado a facilitar la consulta de establecimientos de alojamiento en
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Crear+%E2%80%A2+Aprender+%E2%80%A2+Mejorar+%E2%80%A2+Repetir+%F0%9F%9A%80" alt="Frase animada"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Code.+Create.+Innovate.+Repeat.+%F0%9F%92%9C;Building+the+future+one+line+at+a+time+%F0%9F%9A%80" alt="Frase final animada"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:06b6d4,50:1d4ed8,100:020617&animation=fadeIn" width="100%"/>
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:0D0221,30:240046,60:7B2CBF,100:C77DFF&animation=fadeIn"/>
 
 </div>
 
